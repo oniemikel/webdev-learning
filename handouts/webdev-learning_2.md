@@ -3,14 +3,12 @@ marp: true
 theme: study
 paginate: true
 ---
-<!-- class: title -->
+<!-- _class: title -->
 
 # Webアプリ開発勉強会 第2回
 ## ～HTMLの基礎～
 
 ---
-
-<!-- class: -->
 
 # 目次（1/4）
 
@@ -314,7 +312,7 @@ webページに**実際に表示される部分**を記述する。
 
 ---
 
-<!-- class: section -->
+<!-- _class: section -->
 
 # **おつかれさまでした！**
 # 🎯 **次回は「HTMLの応用」です！**

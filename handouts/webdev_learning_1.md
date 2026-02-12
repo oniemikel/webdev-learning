@@ -3,14 +3,12 @@ marp: true
 theme: study
 paginate: true
 ---
-<!-- class: title -->
+<!-- _class: title -->
 
 # Webアプリ開発勉強会 第1回
 ## ～環境構築～
 
 ---
-
-<!-- class: -->
 
 # 目次
 
@@ -111,7 +109,7 @@ https://tech-broccoli.life/articles/engineer/gitconfig-level/
 
 ---
 
-<!-- class: section -->
+<!-- _class: section -->
 
 ### **これでひとまずは環境構築終わりです。**
 ### **次回からコードを書いていきます。お楽しみに。**
